@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Xcats2021Intro2</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_main">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="greetings_bye_xcats">Bye X-Cats!</string>
+    <string name="greetings_hello_xcats">Hello X-Cats!</string>
+    <string name="title_activity_main2">MainActivity</string>
+
+    <string name="sad_number_text">0-1</string>
+    <string name="ok_number_text">2-3</string>
+    <string name="happy_number_text">3+</string>
+</resources>
